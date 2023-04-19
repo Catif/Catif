@@ -1,11 +1,11 @@
 <h1 align='center'>Hi, I'm Catif ! 😶‍🌫️ </h1>
 
-## Links 🌐
+### Links 🌐
 
 - <a href="https://catif.me">Portfolio</a> (new version in progress)
 - <a href="https://www.linkedin.com/in/bradley-barbier/">LinkedIn</a>
 
-## Stats 📊
+### Stats 📊
 
 <div>
 
