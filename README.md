@@ -5,11 +5,18 @@
 - <a href="https://catif.me">Portfolio</a> (new version in progress)
 - <a href="https://www.linkedin.com/in/bradley-barbier/">LinkedIn</a>
 
+### About me 🤔
+
+- 🎓 I'm a student in web development at the IUT Charlemagne Nancy in France.
+- 🖋️ Like you can see below, I create [Les tips de Catif](https://tips.catif.me) a website where I share my tips and tricks about development. (Not really active for now, but I wrote a lot of articles need to be published)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" width="18" style="padding-right: 5px"> Actually I learn Japanese, I'm at the N5 level. (very beginner level... but I'm improving 👀)
+
 ### Pinned Repositories 📌
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=Record-Live-WebRTC&theme=github_dark&hide_border=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=LP-PTUT_Scudo&theme=github_dark&hide_border=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=tips.catif.me&theme=github_dark&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=LP1-CIASIE_Atelier1&theme=github_dark&hide_border=true)
 
 ### Stats 📊
 
