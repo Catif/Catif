@@ -1,7 +1,16 @@
+<h1 align='center'>Hi, I'm Catif ! 😶‍🌫️ </h1>
 
-<h1 align='center'>Hi, I'm Catif !</h1>
+## Links 🌐
 
-To see my last projects --> <a href="https://catif.me">catif.me</a>
+- <a href="https://catif.me">Portfolio</a> (new version in progress)
+- <a href="https://www.linkedin.com/in/bradley-barbier/">LinkedIn</a>
 
-![Catif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Catif&count_private=true&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Catif&theme=react&hide_border=true)
+## Stats 📊
+
+<div>
+
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=Catif&count_private=true&theme=github_dark&hide_border=true&show_icons=true" width="400">
+
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catif&theme=github_dark&hide_border=true" width="300">
+
+</div>
