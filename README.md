@@ -13,10 +13,10 @@
 
 ### Pinned Repositories 📌
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=Record-Live-WebRTC&theme=github_dark&hide_border=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=LP-PTUT_Scudo&theme=github_dark&hide_border=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=tips.catif.me&theme=github_dark&hide_border=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=LP1-CIASIE_Atelier1&theme=github_dark&hide_border=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=Record-Live-WebRTC&theme=github_dark&hide_border=true)](https://github.com/Catif/Record-Live-WebRTC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=LP-PTUT_Scudo&theme=github_dark&hide_border=true)](https://github.com/Catif/LP-PTUT_Scudo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catif&repo=tips.catif.me&theme=github_dark&hide_border=true)](https://github.com/Catif/tips.catif.me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LP-CIASIE&repo=Atelier-2&theme=github_dark&hide_border=true)](https://github.com/LP-CIASIE/Atelier-2)
 
 ### Stats 📊
 
