@@ -2,7 +2,7 @@
 
 ### Links 🌐
 
-- <a href="https://catif.me">Portfolio</a> (new version in progress)
+- <a href="https://catif.dev">Portfolio</a>
 - <a href="https://www.linkedin.com/in/bradley-barbier/">LinkedIn</a>
 
 ### About me 🤔
