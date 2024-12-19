@@ -7,8 +7,8 @@
 
 ### About me 🤔
 
--  <img src="https://github.com/Catif/Catif/assets/84462178/5832e2cd-7ec7-415c-8b60-6883b2588b35" height="15"> Developer VueJS
--  <img src="https://github.com/Catif/Catif/assets/84462178/6f9b8942-0843-439b-9a8a-0d5117f80b36" height="15"> Developer Laravel
+-  <img src="https://github.com/Catif/Catif/assets/84462178/5832e2cd-7ec7-415c-8b60-6883b2588b35" height="15"> VueJS Developer 
+-  <img src="https://github.com/Catif/Catif/assets/84462178/6f9b8942-0843-439b-9a8a-0d5117f80b36" height="15"> Laravel  Developer 
 - 🏤 Working at [APITech-Solution](https://www.apitech-solution.com/us/en/) in France.
 
 
